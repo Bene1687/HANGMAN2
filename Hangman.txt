@@ -1,0 +1,11 @@
+rd number will be 56
+
+
+What needs to happen to show a word with underscores as letters first and then replace each underscore with a guessed letter?
+
+- Print a random word from the list and hide it,
+- Replace the letters with underscores and show it to the user,
+- Print instruction for the user to know how many guesses he has and to start playing by choosing a letter,
+- Check if the letter chosen by the user is whithin the word, if so replace underscore by the letter and ask the user to guess again,
+- Until the user is out of guesses or until he find the word keep printing how many guesses the user have left.
+
